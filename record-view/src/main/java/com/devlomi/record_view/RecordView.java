@@ -134,7 +134,7 @@ public class RecordView extends RelativeLayout {
                 counterTime.setTextSize(TypedValue.COMPLEX_UNIT_SP,timeTextSize);
                 
              if (slideToCancelTextSize != -1)
-                slideToCancel.setTextSize(TypedValue.COMPLEX_UNIT_SP,timeTextSize);
+                slideToCancel.setTextSize(TypedValue.COMPLEX_UNIT_SP,slideToCancelTextSize);
 
             setMarginRight(slideMarginRight, true);
 
