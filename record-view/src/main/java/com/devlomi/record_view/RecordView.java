@@ -6,6 +6,7 @@ import android.content.res.TypedArray;
 import android.graphics.drawable.Drawable;
 import android.media.MediaPlayer;
 import android.os.Handler;
+import android.util.TypedValue;
 import android.os.SystemClock;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
