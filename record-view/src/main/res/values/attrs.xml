@@ -7,6 +7,8 @@
         <attr name="slide_to_cancel_bounds" format="dimension" />
         <attr name="slide_to_cancel_arrow_color" format="color" />
         <attr name="counter_time_color" format="color" />
+        <attr name="counter_time_text_size" format="dimension" />
+        <attr name="slide_to_cancel_text_size" format="dimension" />
 
     </declare-styleable>
 
